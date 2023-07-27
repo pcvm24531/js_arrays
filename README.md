@@ -1,2 +1,1 @@
-# js_arrays
-Aprendiendo manipulacion de arreglos
+# curso-manipulacion-de-arrays
