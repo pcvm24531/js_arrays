@@ -1,3 +1,4 @@
+
 const letters = Array('a','b','c','d','e');
 const newLetter = [];
 for (let index = 0; index < letters.length; index++) {
