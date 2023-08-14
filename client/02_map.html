@@ -17,7 +17,11 @@
         ];
 
         const app = document.querySelector('#app');
+<<<<<<< HEAD
         const taskMap = tasks.map( task => app.innerHTML+=`<p style="color:${task.status?'green':'red'}" >${task.title} => ${ task.status?'Complete':'Pending' } </p>` );
+=======
+        const elementsMap = tasks.map( task => app.innerHTML+=`<p style='color:${task.status?'green':'red'}'>${task.title}</p>` );
+>>>>>>> 04a42f9b31d2b587f02727815a18873f40de590d
     </script>
 </body>
 </html>
