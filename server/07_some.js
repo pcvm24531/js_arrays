@@ -1,3 +1,7 @@
+/**
+ * some() => Verifica que almenos un elemento cumpla una condición
+ */
+
 //verificamos si almenos un numero es par
 /*const numbers = [1,11,3,5,7,9];
 
