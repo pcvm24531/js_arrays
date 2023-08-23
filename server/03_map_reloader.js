@@ -1,3 +1,6 @@
+/**
+ * mapreloader() => 
+ */
 const orders = [
     {
         customerName: 'Pablo',
